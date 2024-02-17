@@ -21,6 +21,7 @@
 
 ## Installation and Running Instructions
 
+Issues regarding building android app from buildozer can be solved goint to this link: https://github.com/kivy/buildozer/blob/master/docs/source/installation.rst
 ## Documentation
 
 ## Support information
