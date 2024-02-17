@@ -27,3 +27,8 @@ Issues regarding building android app from buildozer can be solved goint to this
 ## Support information
 
 Please create a issue (https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+
+## To do
+
+1. To integrate android app with yolo
+2. To generate commands for the drone movement
