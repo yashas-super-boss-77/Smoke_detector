@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Smoke detector</string>
-    <string name="private_version">b1f0f2c40af570b94cab88a7c5b0027e8e774e9f</string>
-    <string name="presplash_color">#000000</string>
-    <string name="urlScheme">kivy</string>
-</resources>
