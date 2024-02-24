@@ -15,7 +15,8 @@
 1. Yolov8
 2. Python for backend
 3. Gradio for web based front end
-4. Kivy for android based front end
+4. Kivy for android based front end: too many functional dependencies
+5. Android Studio to build android app
 
 ## Requirements
 
